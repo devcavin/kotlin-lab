@@ -22,5 +22,5 @@ fun main() {
     val example = "Good morning..."
     println(example.replace("morning", "bye")) // "Good bye..."
     println(example.replace('.', '!'))         // "Good morning!!!"
-    println()
+    println(("There is no royal road to learning").length)
 }
